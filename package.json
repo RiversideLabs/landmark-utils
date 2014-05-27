@@ -1,0 +1,42 @@
+{
+  "name": "landmark-utils",
+  "version": "0.1.0",
+  "description": "A useful library of utilities used by Landmark, and you!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RiversideLabs/landmark-utils.git"
+  },
+  "keywords": [
+    "util",
+    "utils",
+    "string manipulation",
+    "conversion",
+    "helpers",
+    "functional",
+    "html",
+    "string",
+    "diacritics",
+    "transliterate",
+    "transliteration",
+    "html entities"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "html-stringify": "~0.0.1",
+    "i": "~0.3.2"
+  },
+  "devDependencies": {
+    "mocha": ">= 1.18 < 2",
+    "must": ">= 0.11 < 1"
+  },
+  "author": "Mike Stecker",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/RiversideLabs/landmark-utils/issues"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./tests -R spec"
+  }
+}
