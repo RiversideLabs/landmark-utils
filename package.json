@@ -1,6 +1,6 @@
 {
   "name": "landmark-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A useful library of utilities used by Landmark, and you!",
   "main": "index.js",
   "repository": {
