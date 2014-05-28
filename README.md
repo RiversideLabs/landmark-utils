@@ -23,7 +23,7 @@ lightweight html &larr; &rarr; text conversion.
 If you're using [Landmark](http://landmarkserve.com), it exposes this library
 as `.utils`.
 
-	var landmark = require('landmark'),
+	var landmark = require('landmark-serve'),
 		utils = landmark.utils;
 
 
