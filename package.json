@@ -1,6 +1,6 @@
 {
   "name": "landmark-utils",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "A useful library of utilities used by Landmark, and you!",
   "main": "index.js",
   "repository": {
@@ -27,7 +27,7 @@
     "i": "~0.3.2"
   },
   "devDependencies": {
-    "mocha": ">= 1.18 < 2",
+    "mocha": ">= 1.19 < 2",
     "must": ">= 0.11 < 1"
   },
   "author": "Mike Stecker",
