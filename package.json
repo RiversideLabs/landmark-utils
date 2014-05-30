@@ -1,25 +1,15 @@
 {
   "name": "landmark-utils",
-  "version": "0.1.13",
-  "description": "A useful library of utilities used by Landmark, and you!",
+  "version": "0.1.15",
+  "description": "A useful library of utilities used by LandmarkJS",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/RiversideLabs/landmark-utils.git"
   },
   "keywords": [
-    "util",
-    "utils",
-    "string manipulation",
-    "conversion",
-    "helpers",
-    "functional",
-    "html",
-    "string",
-    "diacritics",
-    "transliterate",
-    "transliteration",
-    "html entities"
+    "landmark",
+    "landmarkjs"
   ],
   "dependencies": {
     "underscore": "~1.6.0",
