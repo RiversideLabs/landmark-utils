@@ -2,7 +2,7 @@ Landmark Utils
 ==============
 
 A useful library of utilities for node.js used by
-[Landmark](http://landmarkserve.com) and you!
+[Landmark](http://landmarkjs.com) and you!
 
 It provides additional functionality for manipulating and converting various
 types of data, including converting strings between various forms, and
@@ -20,7 +20,7 @@ lightweight html &larr; &rarr; text conversion.
 
 ### Bundled with Landmark
 
-If you're using [Landmark](http://landmarkserve.com), it exposes this library
+If you're using [Landmark](http://landmarkjs.com), it exposes this library
 as `.utils`.
 
 	var landmark = require('landmark-serve'),
